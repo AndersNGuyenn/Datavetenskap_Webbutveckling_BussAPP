@@ -1,0 +1,74 @@
+{
+    "posts": [
+        {
+            "lat": "60.21955",
+            "lon": "17.1938",
+            "name": "Åshuvudet",
+            "image": "ashuvudet.png",
+            "description": "Ett vindskydd där man kan koppla av och grilla!"
+        },
+        {
+            "lat": "60.19891",
+            "lon": "17.1291",
+            "name": "Festplatsen",
+            "image": "pinpoint.png",
+            "description": "Denna plats hade ingen bild på internet, så vi vet inte vad det är för plats!"
+        },
+        {
+            "lat": "60.20745",
+            "lon": "17.3406",
+            "name": "Gnupe",
+            "image": "gnupe.png",
+            "description": "En badplats där du kan ta ett kallt dop och sola!"
+        },
+        {
+            "lat": "60.17909",
+            "lon": "17.222",
+            "name": "Hade",
+            "image": "hade.png",
+            "description": "En badplats där du kan ta ett kallt dop och sola!"
+        },
+        {
+            "lat": "60.19183",
+            "lon": "17.1946",
+            "name": "Korsnäset",
+            "image": "korsnaset.png",
+            "description": "En badplats där du kan ta ett kallt dop och sola!"
+        },
+        {
+            "lat": "60.22312",
+            "lon": "17.2812",
+            "name": "Kvillanudden",
+            "image": "kvillanudden.png",
+            "description": "Ett vindskydd där man kan koppla av och grilla!"
+        },
+        {
+            "lat": "60.22302",
+            "lon": "17.0000",
+            "name": "Norra Sundet",
+            "image": "norrasundet.png",
+            "description": "En badplats där du kan ta ett kallt dop och sola!"
+        },
+        {
+            "lat": "60.22987",
+            "lon": "17.5701",
+            "name": "Östveda",
+            "image": "ostveda.png",
+            "description": "En badplats där du kan ta ett kallt dop och sola!"
+        },
+        {
+            "lat": "60.21013",
+            "lon": "17.1919",
+            "name": "Sandsnäsbadet",
+            "image": "sandsnasbadet.png",
+            "description": "En badplats där du kan ta ett kallt dop och sola!"
+        },
+        {
+            "lat": "60.1872",
+            "lon": "17.2239",
+            "name": "Södra Sundet",
+            "image": "sodrasundet.png",
+            "description": "En badplats där du kan ta ett kallt dop och sola!"
+        }
+    ]
+}

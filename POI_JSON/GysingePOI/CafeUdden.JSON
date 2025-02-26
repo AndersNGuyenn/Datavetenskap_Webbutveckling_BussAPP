@@ -1,0 +1,46 @@
+{
+    "posts": [
+        {
+            "lat": "60.17273",
+            "lon": "16.5287",
+            "name": "Cafe Udden",
+            "image": "cafeudden.png",
+            "description": "Ett fint café vid vattnet att koppla av vid!"
+        },
+        {
+            "lat": "60.16877",
+            "lon": "16.48372",
+            "name": "Edsviken",
+            "image": "edsviken.png",
+            "description": "En badplats där du kan ta ett dop och koppla av!"
+        },
+        {
+            "lat": "60.15752",
+            "lon": "16.5023",
+            "name": "Gärdsvekarna",
+            "image": "gardsvekarna.png",
+            "description": "En badplats där du kan ta ett dop och koppla av!"
+        },
+        {
+            "lat": "60.17277",
+            "lon": "16.53181",
+            "name": "Gysinge",
+            "image": "gysinge.png",
+            "description": "En badplats där du kan ta ett dop och koppla av!"
+        },
+        {
+            "lat": "60.15225",
+            "lon": "16.47666",
+            "name": "Ista",
+            "image": "ista.png",
+            "description": "Ett vindskydd där man kan koppla av och grilla!"
+        },
+        {
+            "lat": "60.15747",
+            "lon": "16.48537",
+            "name": "Karlhomen",
+            "image": "pinpoint.png",
+            "description": "Denna plats hade ingen bild på internet, så vi vet inte vad det är för plats!"
+        }
+    ]
+}
